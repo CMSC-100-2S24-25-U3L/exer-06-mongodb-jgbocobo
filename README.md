@@ -1,7 +1,1 @@
-Author: Jorge G. Bocobo
-Date: March 5, 2025
-Section: CMSC 100 - U3L
-Exercise 06
-
-Takeaways:
-Today, I learned how to integrate MongoDB with Node.js using Express and Mongoose. I implemented GET and POST requests to interact with the database. The program allows me to add, update, delete, and fetch student records.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/L_C5a7nj)
